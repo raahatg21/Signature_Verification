@@ -24,7 +24,7 @@ Simply run the ipynb fie `sigmodelv2.ipynb`.
 
 
 ## Result
-This build is failing due to timeout error on Google Colab.
+A subset of the full dataset was used to avoid timeout on Google Colab. Training Loss on this subset was 8.8125e-04 and Validation Loss was 0.0556
 
 ## Resources
 - Research paper link: 
